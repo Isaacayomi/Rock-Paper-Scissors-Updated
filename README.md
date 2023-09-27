@@ -6,4 +6,6 @@
 
 **-Objects**: Objects are used to store data. They can be created using the {} curly braces.
 
+**-JSON**
+
 **-Local storage**: Local storage is a way to store data on the user's computer. I used this to store the game's score.
